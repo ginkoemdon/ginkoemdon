@@ -1,11 +1,5 @@
 ### Alo, Im Ginko👋
-
-![image](https://user-images.githubusercontent.com/71034041/133732721-c9f0f643-fe13-4bcb-b55a-17682515ae2e.png)
-
-![image](https://user-images.githubusercontent.com/71034041/133733093-9c09ec4e-898b-4060-80fe-ce71c3d7baa8.png)
-
-![image](https://user-images.githubusercontent.com/71034041/133732811-8bd84e11-c8c1-4de0-9ac7-743074aca6d6.png)
-
+![waterfall](https://user-images.githubusercontent.com/71034041/133733342-8d99147d-4f0c-43b5-bf72-e3815c9292c3.gif)
 <!--
 **ginkoemdon/ginkoemdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
