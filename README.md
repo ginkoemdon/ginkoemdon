@@ -1,4 +1,8 @@
-### Hi there 👋
+### Alo, Im Ginko👋
+
+![image](https://user-images.githubusercontent.com/71034041/133732721-c9f0f643-fe13-4bcb-b55a-17682515ae2e.png)
+
+
 
 <!--
 **ginkoemdon/ginkoemdon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
